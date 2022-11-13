@@ -1,0 +1,10 @@
+{
+  "name": "tao-bieudo-tron",
+  "id": "1173679567874808885",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
